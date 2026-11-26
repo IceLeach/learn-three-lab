@@ -1,4 +1,4 @@
-# 让 AI 协助学习 Three.js 
+# AI 协助学习 Three.js
 
 尝试一种 AI 参与的学习方式。
 
